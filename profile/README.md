@@ -2,7 +2,7 @@
 
 **AI recruiting software for staffing firms and recruiting teams across blue-collar and skilled-trades work.**
 
-[VeroSkills](https://www.veroskills.com/) (`VeroSkills, Inc.`, also known as **VeroHire**) equips staffing firms and recruiting teams with groups of AI agents that handle early recruiting work—candidate sourcing, text and email outreach, preliminary AI interviews, and calendar scheduling—so human recruiters can focus on candidate relationships, client conversations, and hiring decisions.
+[VeroSkills](https://www.veroskills.com/) (`VeroSkills, Inc.`, also known as **VeroHire**) equips staffing firms and recruiting teams with fleets of AI agents that handle early recruiting work—candidate sourcing, text and email outreach, preliminary AI interviews, and calendar scheduling—so human recruiters can focus on candidate relationships, client conversations, and hiring decisions.
 
 ---
 
